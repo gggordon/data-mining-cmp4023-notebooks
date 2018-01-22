@@ -1,2 +1,3 @@
-# data-mining-cmp4023-notebooks
-Notebooks and Resources for CMP4023 Data Mining Students
+# Data Mining CMP4023 Notebooks
+
+Notebooks and Resources for Data Mining Students
